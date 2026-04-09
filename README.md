@@ -497,7 +497,7 @@ Possible future extensions:
 ├── README.md
 ├── notebook.ipynb
 ├── dataset/
-└── screenshots/
+
 ```
 
 ---
